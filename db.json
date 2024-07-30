@@ -1,0 +1,16 @@
+{
+  "emails": [
+    {
+      "text": "First message!",
+      "id": "2322"
+    },
+    {
+      "id": "e812",
+      "text": "Ну здорова!"
+    },
+    {
+      "id": "cae8",
+      "text": "Third <b>message</b>!!!\n"
+    }
+  ]
+}
